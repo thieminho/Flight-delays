@@ -1,5 +1,5 @@
 # Flight-delays
-Data analysis project using United States Department of Transportation database (https://www.transtats.bts.gov/Homepage.asp)
+Data analysis project using United States Department of Transportation database.
 Technologies used: 
  - R and markdown
  - SQL (PostgreSQL)
